@@ -5,6 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+Frontend+developer;Aspiring+Full+Stack+developer;Always+curious+to+learn)](https://git.io/typing-svg)
 
 ## <picture><img alt="Coder GIF" height=50px width=80px src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" /></picture> **About me**
+- 🔭 Currently pursuing Masters at Northeastern University, Boston
+  
+- :woman_office_worker:Experienced Frontend developer looking for internship opportunities for SDE and web dev roles
+
+- 🤝 Open for collaboration and connecting
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+- 📫 How to reach me **harisriya03@gmail.com**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
