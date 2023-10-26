@@ -11,7 +11,7 @@
 
 - 🤝 Open for collaboration and connecting
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Reactjs & Frontend development**
 
 - 📫 How to reach me **harisriya03@gmail.com**
 
