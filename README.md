@@ -2,18 +2,20 @@
 
 <h3 align="center">Hey there, I'm Sriya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+Frontend+developer;Aspiring+Full+Stack+developer;Always+curious+to+learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+Frontend+developer;Experienced+Full+Stack+developer;Always+curious+to+learn)](https://git.io/typing-svg)
 
 ## <picture><img alt="Coder GIF" height=50px width=80px src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" /></picture> **About me**
-- 🔭 Currently pursuing Masters at Northeastern University, Boston
-  
-- :woman_office_worker:Experienced Frontend developer looking for internship opportunities for SDE and web dev roles
 
-- 🤝 Open for collaboration and connecting
+- 🎓 Currently pursuing a Master’s in Software Engineering Systems at Northeastern University, Boston (Graduating Aug 2025)
+- 👩‍💻 Former Frontend Developer with 3+ years of experience | Recently completed Full Stack Co-op at Fidelity Investments
+- 🔭 Exploring opportunities for **SDE / Full Stack / Web Development internships**
+- 💡 Passionate about building scalable, user-centric applications using **React.js**, **Angular**, **Node.js**, and **Spring Boot**
+- 🧠 Learning more about **Distributed Systems**, **Cloud Platforms (AWS/GCP)**, and **System Design**
+- 🤝 Always open to collaboration and connecting with fellow tech enthusiasts
+- 💬 Ask me about **Frontend development**, **API integration**, or **UI/UX improvements**
+- 📫 Reach me at **harisriya03@gmail.com** or [LinkedIn](https://www.linkedin.com/in/pelluri-hari-sriya/)
 
-- 💬 Ask me about **Reactjs & Frontend development**
-
-- 📫 How to reach me **harisriya03@gmail.com**
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
